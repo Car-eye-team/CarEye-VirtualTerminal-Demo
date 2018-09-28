@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  AutoIncressContent.cpp
+d:\project\customproject\ricky\virtualterminal-demo\jt808controller\autoincresscontent.cpp(45): warning C4244: “参数”: 从“unsigned __int64”转换到“size_t”，可能丢失数据
+d:\project\customproject\ricky\virtualterminal-demo\jt808controller\autoincresscontent.cpp(59): warning C4244: “参数”: 从“ContentType::size_t”转换到“size_t”，可能丢失数据
+d:\project\customproject\ricky\virtualterminal-demo\jt808controller\autoincresscontent.cpp(87): warning C4244: “参数”: 从“ContentType::QWORD”转换到“size_t”，可能丢失数据
+d:\project\customproject\ricky\virtualterminal-demo\jt808controller\autoincresscontent.cpp(88): warning C4244: “参数”: 从“ContentType::QWORD”转换到“size_t”，可能丢失数据
+  BlokingRingBuffer.cpp
+d:\project\customproject\ricky\virtualterminal-demo\jt808controller\blokingringbuffer.cpp(127): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  CommandClasses.cpp
+  dllmain.cpp
+  JT808Controller.cpp
+  JTT808Head.cpp
+  JTT808Packer.cpp
+  RTPPusher.cpp
+  Semaphore.cpp
+d:\project\customproject\ricky\virtualterminal-demo\jt808controller\semaphore.cpp(45): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  utils.cpp
+  正在生成代码...

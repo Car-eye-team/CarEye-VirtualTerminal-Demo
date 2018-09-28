@@ -1,0 +1,9 @@
+x64
+.vs
+*.ilk
+*.pdb
+*.exe
+*.tlog
+*.obj
+*.idb
+*.pch

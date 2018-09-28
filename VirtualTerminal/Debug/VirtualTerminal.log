@@ -1,0 +1,3 @@
+﻿  pch.cpp
+  VirtualTerminal.cpp
+LINK : fatal error LNK1104: 无法打开文件“D:\Project\CustomProject\Ricky\VirtualTerminal-Demo\Demo\Debug\JT808Controller.lib”
